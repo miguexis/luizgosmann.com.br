@@ -1,7 +1,7 @@
 # luizgosmann.com.br
 
 Site de **Luiz Miguel Gosmann** — consultoria para pizzarias. HTML estático, sem build, servido via
-GitHub Pages em **https://luizgosmann.com.br**. Os domínios **luizmiguelgosmann.com.br** e
+GitHub Pages; endereço final **https://luizgosmann.com.br** (DNS, domínio verificado e HTTPS forçado entram na S1). Os domínios **luizmiguelgosmann.com.br** e
 **miguelgosmann.com.br** vão redirecionar pro principal (redirect 301 na Cloudflare, configuração prevista pra S1).
 
 Contato: contato@luizgosmann.com.br
@@ -39,7 +39,7 @@ Atualizado em dom 25/10/2026.
   nunca é nomeada em case. O nome não está neste README de propósito: o repo é público.
 - **Entidade clara em toda página:** "Luiz Miguel Gosmann" por extenso. "Miguexis" é apelido
   (`alternateName` no schema.org), nunca marca.
-- **Fonte oficial da frente:** o repo privado `consultoria-ops`, arquivo `docs/ENCOMENDA-2026-10-25.md`.
+- **Fonte oficial da frente:** o repo privado de operação, arquivo `docs/ENCOMENDA-2026-10-25.md`.
   O que não estiver lá não se inventa aqui.
 
 ## Rodar local
