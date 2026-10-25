@@ -1,0 +1,7 @@
+# repo publico: working dir e binario de trabalho ficam fora
+node_modules/
+.DS_Store
+Thumbs.db
+_render/
+*.psd
+*.zip
